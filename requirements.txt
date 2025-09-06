@@ -4,4 +4,4 @@ pandas
 scipy
 plotly     
 matplotlib  
-   
+PyPDF2
